@@ -1,4 +1,4 @@
-# Prediction Model Checkpoint
+# Credit Risk Prediction Model Used to find Default cases
 
 This repository contains a Jupyter notebook that demonstrates the implementation of a prediction model, detailing the steps taken to process data, build the model, and evaluate its performance.
 
